@@ -9,6 +9,7 @@
 The full white paper, companion protocol, and quick reference guide are available free at:
 
 🔗 **https://robertjrgraham.github.io/autism-white-paper/**
+📖 **Permanent DOI:** https://doi.org/10.5281/zenodo.20479620
 
 ---
 
